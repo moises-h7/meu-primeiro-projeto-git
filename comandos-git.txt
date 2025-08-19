@@ -4,5 +4,8 @@
 - `git clone` - Clona um repositório remoto  
 - `git add` - Adiciona arquivos à área de staging  
 - `git commit` - Confirma as alterações no repositório local  
-- `git status` - Mostra o status dos arquivos
+- `git status` - Mostra o status dos arquivos  
+- `git branch` - Lista branches ou cria uma nova branch  
+- `git checkout` - Muda para outra branch  
+- `git push origin <branch>` - Envia a branch para o repositório remoto
 
