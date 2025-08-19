@@ -1,0 +1,16 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Pastas e arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos pessoais (não devem ser versionados)
+senha.txt
+configuracoes-locais.txt
+
