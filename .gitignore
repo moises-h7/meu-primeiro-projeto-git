@@ -1,6 +1,7 @@
 # Arquivos temporários
 *.tmp
 *.log
+*.swp         # Arquivos temporários do Vim
 
 # Pastas e arquivos de sistema
 .DS_Store
