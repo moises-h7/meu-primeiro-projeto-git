@@ -9,3 +9,11 @@
 - `git checkout` - Muda para outra branch  
 - `git push origin <branch>` - Envia a branch para o repositório remoto
 
+## Resolução de Conflitos
+
+- `git merge <branch>` - Faz merge de uma branch (pode gerar conflitos)  
+- Quando há conflito:  
+  1. Editar o arquivo e remover as marcações (`<<<<<<<`, `=======`, `>>>>>>>`)  
+  2. Salvar o arquivo  
+  3. Executar `git add <arquivo>`  
+  4. Executar `git commit`  
