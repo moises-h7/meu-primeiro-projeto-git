@@ -21,6 +21,6 @@ Este repositório foi criado para aprender os conceitos básicos do Git.
 - ✅ **Tarefa 4** - Merge e resolução de conflitos  
 - ✅ **Tarefa 5** - Histórico, logs e boas práticas  
 
-**Total de commits realizados:** 12 commits  
+**Total de commits realizados:** 14 commits  
 **Data de conclusão:** 19/08/25
 
