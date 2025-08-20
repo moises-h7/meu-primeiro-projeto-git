@@ -14,9 +14,17 @@
 - `arquivo-normal.txt` - Arquivo de exemplo para teste
 
 ## Arquivos Ignorados pelo Git (.gitignore)
-Os seguintes arquivos estão presentes na pasta, mas são ignorados pelo Git:  
-- `teste.tmp` - Arquivo temporário de exemplo  
-- `senha.txt` - Arquivo com informações sensíveis (exemplo de segurança)
+Os seguintes arquivos e pastas estão presentes na pasta, mas são **ignorados pelo Git**:  
+
+- `*.tmp` - Arquivos temporários gerais (ex.: `teste.tmp`)  
+- `*.log` - Arquivos de log  
+- `*.swp` - Arquivos temporários do Vim  
+- `.DS_Store` - Arquivos de sistema do macOS  
+- `Thumbs.db` - Arquivos de sistema do Windows  
+- `.vscode/` - Pastas de configuração do VSCode  
+- `.idea/` - Pastas de configuração do IntelliJ/IDEA  
+- `senha.txt` - Arquivo com informações sensíveis  
+- `configuracoes-locais.txt` - Arquivo de configurações pessoais  
 
 ## Próximos Passos
 - Continuar estudando Git  
